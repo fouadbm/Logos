@@ -1,0 +1,14 @@
+image_url,box0
+Abbott_Medicine.jpg,{""height"": 62, ""y"": 130, ""label"": ""Abbott"", ""width"": 72, ""x"": 111}
+Abbott_Medicine2.jpg,{""height"": 57, ""y"": 62, ""label"": ""Abbott"", ""width"": 62, ""x"": 101}
+Abbott_Medicine4.jpg,{""height"": 64, ""y"": 104, ""label"": ""Abbott"", ""width"": 75, ""x"": 76}
+Abbott_Medicine5.jpg,{""height"": 36, ""y"": 179, ""label"": ""Abbott"", ""width"": 44, ""x"": 91}
+Abbott_Medicine6.png,{""height"": 44, ""y"": 79, ""label"": ""Abbott"", ""width"": 44, ""x"": 122}
+Abbott_Medicine7.jpg,{""height"": 24, ""y"": 220, ""label"": ""Abbott"", ""width"": 26, ""x"": 78}
+Abbott_Medicine9.jpg,{""height"": 60, ""y"": 119, ""label"": ""Abbott"", ""width"": 70, ""x"": 97}
+Pfizer_Medicine.jpg,{""height"": 37, ""y"": 67, ""label"": ""Pfizer"", ""width"": 54, ""x"": 105}
+Pfizer_Medicine2.jpg,{""height"": 48, ""y"": 262, ""label"": ""Pfizer"", ""width"": 49, ""x"": 229}
+Pfizer_Medicine3.jpg,{""height"": 47, ""y"": 95, ""label"": ""Pfizer"", ""width"": 63, ""x"": 86}
+Pfizer_Medicine4.jpg,{""height"": 48, ""y"": 95, ""label"": ""Pfizer"", ""width"": 94, ""x"": 60}
+Pfizer_Medicine6.jpg,{""height"": 32, ""y"": 63, ""label"": ""Pfizer"", ""width"": 54, ""x"": 37}
+Pfizer_Medicine8.jpg,{""height"": 107, ""y"": 332, ""label"": ""Pfizer"", ""width"": 163, ""x"": 196}
